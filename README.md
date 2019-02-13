@@ -1,2 +1,1 @@
-# Assignment08
-This is my assignment08 of data mining class
+This script demonstrates the first order Taylor expansion of a given function
